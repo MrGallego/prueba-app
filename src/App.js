@@ -47,7 +47,7 @@ class App extends React.Component {
     return(
     <div>
       <Router>
-      <Link to="/">Home</Link>
+      <Link to="/">Hom</Link>
      
       <br></br>
       <Link to="/posts">Post</Link>
